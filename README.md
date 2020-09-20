@@ -4,7 +4,7 @@
 ## WEEK 1
 
 ### 1. [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
-- 요약: https://www.notion.so/johnoh/Generative-adversarial-networks-0556540e44374064ab6a52b701ed771c
+- 요약: https://www.notion.so/Generative-adversarial-networks-b9143a43120141228569c42ca9b26ea0
 
 ### 2. DCGAN
 
