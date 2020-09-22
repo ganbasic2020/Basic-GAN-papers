@@ -9,7 +9,7 @@
 ### 2. DCGAN
 
 
-## WEEk 2
+## WEEK 2
 
 ### 1. WGAN
 
