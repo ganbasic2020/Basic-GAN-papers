@@ -12,7 +12,8 @@
 
 ## WEEK 2
 
-### [WGAN](https://arxiv.org/abs/1701.07875) & [WGAN-GP](https://arxiv.org/abs/1704.00028)
+### 1. [WGAN](https://arxiv.org/abs/1701.07875) 
+### 2. [WGAN-GP](https://arxiv.org/abs/1704.00028)
 - 요약 : https://www.notion.so/WGAN-WGAN-GP-ee92cb065ad2427d8832c8a768571a01
 
 ## WEEK 3
