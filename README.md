@@ -14,3 +14,10 @@
 ### 1. WGAN
 
 ### 2. WGAN-GP
+
+## WEEK 3
+
+### 1. Improved Techniques for Training GANs
+
+### 2. [Progressive Growing of GANs](https://arxiv.org/abs/1710.10196)
+- 요약: https://www.notion.so/jex/PG-GAN-f5c4b56f89de4f91ba73d4b45c7e85b5
