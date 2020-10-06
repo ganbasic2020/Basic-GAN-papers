@@ -22,3 +22,8 @@
 
 ### 2. [Progressive Growing of GANs](https://arxiv.org/abs/1710.10196)
 - 요약: https://www.notion.so/jex/PG-GAN-f5c4b56f89de4f91ba73d4b45c7e85b5
+
+## WEEK 4
+
+### 1. StyleGAN
+- 요약: https://www.notion.so/StyleGAN-9a65c2012a58492997121def0ef6c9ed
