@@ -27,3 +27,8 @@
 
 ### 1. StyleGAN
 - 요약: https://www.notion.so/StyleGAN-9a65c2012a58492997121def0ef6c9ed
+
+## WEEK 5
+
+### 1. Regularization and Normalization in GANs
+- 요약: https://www.notion.so/Regularization-and-Normalization-in-GANs-cac8b733ae824271bda14610b9e53139
