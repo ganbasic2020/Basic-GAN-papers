@@ -32,3 +32,6 @@
 
 ### 1. Regularization and Normalization in GANs
 - 요약: https://www.notion.so/Regularization-and-Normalization-in-GANs-cac8b733ae824271bda14610b9e53139
+
+### 2. CycleGAN
+- 요약 : https://www.notion.so/CycleGAN-0c1929a9ba774293a5ec80f3ea136a71
