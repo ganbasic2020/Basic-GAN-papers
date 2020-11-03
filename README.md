@@ -36,3 +36,8 @@
 
 ### 2. CycleGAN
 - 요약 : https://www.notion.so/CycleGAN-0c1929a9ba774293a5ec80f3ea136a71
+
+## WEEK 6
+
+### 1. [BEGAN](https://arxiv.org/pdf/1703.10717.pdf)
+- 요약 : https://www.notion.so/Boundary-Equilibrium-GAN-a58ab8ebc23842ed99351abf31c89bbc
