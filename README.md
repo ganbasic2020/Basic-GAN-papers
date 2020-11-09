@@ -41,3 +41,8 @@
 
 ### 1. [BEGAN](https://arxiv.org/pdf/1703.10717.pdf)
 - 요약 : https://www.notion.so/Boundary-Equilibrium-GAN-a58ab8ebc23842ed99351abf31c89bbc
+
+## WEEK ??
+
+### 1. Semi-Supervised GAN
+- 요약 : https://www.notion.so/GAN-Study-Semi-Supervised-GAN-a3d65557ef064483a19b879a81c14e09
