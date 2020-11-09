@@ -31,7 +31,7 @@
 
 ## WEEK 5
 
-### 1. Regularization and Normalization in GANs https://arxiv.org/abs/1606.01583
+### 1. Regularization and Normalization in GANs
 - 요약: https://www.notion.so/Regularization-and-Normalization-in-GANs-cac8b733ae824271bda14610b9e53139
 
 ### 2. CycleGAN
@@ -44,5 +44,5 @@
 
 ## WEEK ??
 
-### 1. Semi-Supervised GAN
+### 1. Semi-Supervised GAN https://arxiv.org/abs/1606.01583
 - 요약 : https://www.notion.so/GAN-Study-Semi-Supervised-GAN-a3d65557ef064483a19b879a81c14e09
