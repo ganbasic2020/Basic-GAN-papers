@@ -46,3 +46,6 @@
 
 ### 1. Semi-Supervised GAN https://arxiv.org/abs/1606.01583
 - 요약 : https://www.notion.so/GAN-Study-Semi-Supervised-GAN-a3d65557ef064483a19b879a81c14e09
+
+### 2. GAN Surveys
+- 요약 : https://www.notion.so/GAN-Surveys-fc920a196df54de4b9ad2191c68c3127
