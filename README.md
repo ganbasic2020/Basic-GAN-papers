@@ -42,10 +42,27 @@
 ### 1. [BEGAN](https://arxiv.org/pdf/1703.10717.pdf)
 - 요약 : https://www.notion.so/Boundary-Equilibrium-GAN-a58ab8ebc23842ed99351abf31c89bbc
 
-## WEEK ??
+## WEEK 7
+
+### 1. [StarGAN](https://arxiv.org/abs/1711.09020)
+- 요약 : https://www.notion.so/StarGAN-39aa8f9146aa4c0fa5f1592bb93a3286
+
+## WEEK 8
 
 ### 1. Semi-Supervised GAN https://arxiv.org/abs/1606.01583
 - 요약 : https://www.notion.so/GAN-Study-Semi-Supervised-GAN-a3d65557ef064483a19b879a81c14e09
 
 ### 2. GAN Surveys
 - 요약 : https://www.notion.so/GAN-Surveys-fc920a196df54de4b9ad2191c68c3127
+
+## WEEK 9
+
+### 1. [MUNIT](https://arxiv.org/abs/1804.04732)
+- 요약 : https://www.notion.so/MUNIT-b4080c3e999f4c8dac5d6467754ab7f7
+
+## WEEK 10
+
+### 1. [DiffAug](https://arxiv.org/pdf/2006.10738.pdf)
+- 요약 : https://www.notion.so/DiffAug-095e56b7d4a048cfbe1b7a11d6454138
+
+
