@@ -65,4 +65,16 @@
 ### 1. [DiffAug](https://arxiv.org/pdf/2006.10738.pdf)
 - 요약 : https://www.notion.so/DiffAug-095e56b7d4a048cfbe1b7a11d6454138
 
+## WEEK 11
+
+### 1. [FreezeD](https://arxiv.org/abs/2002.10964)
+- 요약 : https://www.notion.so/Freeze-the-Discriminator-a-Simple-Baseline-for-Fine-Tuning-GANs-5b7a7dd8c4e640ad8a82bfd150b99f88
+
+### 2. [BigGAN](https://arxiv.org/abs/1809.11096)
+- 요약 : https://www.notion.so/what256learned/BigGAN-3d135646f9334a42a9c1fbccc7eb8230
+
+
+
+
+
 
